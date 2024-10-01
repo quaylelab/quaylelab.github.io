@@ -1,4 +1,4 @@
-# Quayle Lab
+# Quayle Lab Website
 
 Welcome to the **Quayle Lab** website, the online hub for our cancer bioinformatics research group. 
 

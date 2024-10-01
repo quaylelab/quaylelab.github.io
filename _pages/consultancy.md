@@ -70,7 +70,7 @@ I am experienced in handling sensitive and confidential data across both academi
 I welcome inquiries from researchers, clinicians, and organizations seeking bioinformatics or data science support. Please contact me to discuss your project, specific needs, or for more information on rates and availability.
 
 - **Email**: [l.quayle@shu.ac.uk](mailto:l.quayle@shu.ac.uk) or [drlquayle@gmail.com](mailto:drlquayle@gmail.com)
-- **Website**: [www.lewisdoesdata.com](https://www.lewisdoesdata.com/)
-- **LinkedIn**: [linkedin.com/in/lewis-quayle](https://www.linkedin.com/in/lewis-quayle)
-- **ResearchGate**: [researchgate.net/profile/Lewis-Quayle](https://www.researchgate.net/profile/Lewis-Quayle)
-- **GitHub**: [github.com/lquayle88](https://github.com/lquayle88)
+- **Website**: <a href="https://www.lewisdoesdata.com/" target="_blank">www.lewisdoesdata.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">linkedin.com/in/lewis-quayle</a>
+- **ResearchGate**: <a href="https://www.researchgate.net/profile/Lewis-Quayle" target="_blank">researchgate.net/profile/Lewis-Quayle</a>
+- **GitHub**: <a href="https://github.com/lquayle88" target="_blank">github.com/lquayle88</a>

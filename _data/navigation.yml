@@ -13,7 +13,7 @@ main:
   - title: "Group"
     url: /group/
 
-  - title: "Research"
+  - title: "About Our Research"
     url: /research/    
     
   - title: "Join Us"
@@ -30,22 +30,3 @@ main:
 
   - title: "Consultancy"
     url: /consultancy/
-
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
